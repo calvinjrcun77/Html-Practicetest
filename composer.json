@@ -1,6 +1,6 @@
 {
     "require": {
         "php": "7.0.*",
-        "laravel/framework": "1.0.0"
+        "laravel/framework": "7.0.0"
     }
 }
